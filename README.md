@@ -1,6 +1,6 @@
 # 🍃 ESGene Dashboard
 
-A sustainability report fact-checker for financial analysts & investors.
+A sustainability report fact-checker for financial analysts 
 
 ## Running Locally
 
